@@ -18,4 +18,23 @@ func main(){
 
 	nameFour := "yoshi"
 	fmt.Println(nameFour)
+
+	// ints
+	var ageOne int = 20
+	var ageTwo = 30
+	ageThree := 40
+
+	fmt.Println(ageOne, ageTwo, ageThree)
+
+	// bits & memory
+	// var numOne int8 = 127
+	// var numTwo int8 = -128
+	// var numThee uint8 = 255
+
+	//floats
+	var scoreOne float32 = 25.98
+	var scoreTwo float64 = 34533543.34534543
+	scoreThree := 1.5
+
+	fmt.Println(scoreOne, scoreTwo, scoreThree)
 }
